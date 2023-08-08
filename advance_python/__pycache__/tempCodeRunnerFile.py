@@ -1,0 +1,11 @@
+
+        self.library_table.column("membertype",width=100)
+        self.library_table.column("prnno",width=100)
+        self.library_table.column("title", width=100)
+        self.library_table.column("firstname", width=100)
+        self.library_table.column("lastname", width=100)
+        self.library_table.column("address1", width=100)
+        self.library_table.column("address2",width=100)
+        self.library_table.column("postid", width=100)
+        self.library_table.column("phoneno", width=100)
+        self.library_table.column("bookid", width=100)
